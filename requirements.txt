@@ -3,6 +3,7 @@ pyopenssl
 requests
 lxml
 signxml
+tornado
 
 # Opcional para NFS-e
 #-r requirements-nfse.txt
